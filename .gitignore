@@ -1,0 +1,7 @@
+*.[oa]
+*~
+!lib.a
+/ROOT
+build/
+doc/*.txt
+doc/**/*.txt
